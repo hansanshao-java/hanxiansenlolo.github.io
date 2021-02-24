@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hanxiansenlolo.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-02-24T08:19:03.130Z</updated>
+    <title>my-hanxiansen</title>
+    <updated>2021-02-24T08:31:43.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hanxiansenlolo.github.io"/>
     <link rel="self" href="https://hanxiansenlolo.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>活到老学到老</subtitle>
     <logo>https://hanxiansenlolo.github.io/images/avatar.png</logo>
     <icon>https://hanxiansenlolo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, my-hanxiansen</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hanxiansenlolo.github.io/post/hello-gridea/</id>
